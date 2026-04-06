@@ -1,7 +1,3 @@
-Here is a professional README file for your GitHub repository, written in standard case (not all caps) as requested.
-
----
-
 # Word Ladder Building Game
 
 ## Description
