@@ -90,7 +90,3 @@ This project is open source and available for educational use.
 
 - BFS algorithm adapted for the word ladder problem.
 - Dictionary files may be derived from standard word lists.
-
----
-
-To add this to your repository, save the text above as `README.md` in the root folder. You can customize any sections (such as "Known Issues" or "Future Improvements") based on your actual code behavior.
